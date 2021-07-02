@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @rbogach
-- 👀 I’m interested in Mobile development, AI.
-- 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on Beginner's Projects
+- 👋 Hi, I’m @Roman
+- 👀 I’m interested in Android development.
+- 💞️ I’m looking to collaborate on Open-Source Projects.
 - 📫 How to reach me roman.bogach@gmail.com
 
 <!---
