@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roman
-- 👀 I’m Junior Android Developer.
+- 👀 I’m learning Android Development and Kotlin.
 - 💞️ I’m looking to collaborate on Open-Source Projects.
 - 📫 How to reach me roman.bogach@gmail.com
 
