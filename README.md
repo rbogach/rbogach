@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Roman
-- 👀 I do Android Development with Kotlin.
+- 👀 I do Android Development with Kotlin. Also front-end occasionally, and Machine Learning by nights.
 - 💞️ I’m looking to collaborate on Open-Source Projects.
 - 📫 How to reach me roman.bogach@gmail.com
 
