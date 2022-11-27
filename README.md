@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi there 👋, my name is Roman</h1>
 <h3 align="center"> I adore programming</h3>
 
-- 🌱 I’m currently learning **Android Development** and **AWS Cloud**
+- 🌱 I do **Android Development** and  currently learn **AWS Cloud**
 
 
 <h3 align="left">Connect with me:</h3>
